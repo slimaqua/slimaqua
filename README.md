@@ -52,12 +52,7 @@ I am a Backend Developer specializing in high-performance asynchronous systems, 
 ---
 
 ### 📊 GitHub Stats & Contributions
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=slimaqua&show_icons=true&theme=dark&title_color=00bfff&icon_color=00bfff&text_color=9f9f9f&bg_color=151515" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slimaqua&layout=compact&theme=dark&title_color=00bfff&text_color=9f9f9f&bg_color=151515" alt="Top Languages" height="150" />
-</div>
 
-<br>
 
 ![Snake animation](https://raw.githubusercontent.com/slimaqua/slimaqua/output/github-contribution-grid-snake.svg)
 
